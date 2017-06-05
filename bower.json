@@ -1,0 +1,29 @@
+{
+  "name": "fonts-icons",
+  "description": "A repo with all custom swapps icons",
+  "main": "index.js",
+  "authors": [
+    "Luis Carlos Martinez <karloxmartinez@hotmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sass",
+    "fonts",
+    "svg",
+    "to",
+    "sass",
+    "icons"
+  ],
+  "homepage": "https://github.com/swappsco/fonts-icons",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "assets/sass/font_icons.sass",
+    "build/fonts/**"
+  ],
+}
