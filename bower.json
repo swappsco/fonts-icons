@@ -23,9 +23,6 @@
     "tests"
   ],
   "main": [
-    "assets/sass/font_icons.sass",
-    "/build/fonts/font-icons.ttf",
-    "/build/fonts/font-icons.woff",
-    "/build/fonts/font-icons.woff2"
+    "assets/sass/font_icons.sass"
   ]
 }
