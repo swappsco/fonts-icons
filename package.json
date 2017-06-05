@@ -1,0 +1,18 @@
+{
+  "name": "fonts-icons",
+  "version": "0.1.0",
+  "description": "A repo with all custom swapps icons",
+  "main": "index.js",
+  "repository": "git@github.com:swappsco/fonts-icons.git",
+  "author": "Luis Carlos Martinez <karloxmartinez@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-swig": "^0.8.0",
+    "run-sequence": "^1.2.2"
+  }
+}
