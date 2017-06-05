@@ -24,6 +24,8 @@
   ],
   "main": [
     "assets/sass/font_icons.sass",
-    "build/fonts/**"
+    "/build/fonts/font-icons.ttf",
+    "/build/fonts/font-icons.woff",
+    "/build/fonts/font-icons.woff2"
   ]
 }
